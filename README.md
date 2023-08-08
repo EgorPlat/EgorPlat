@@ -1,16 +1,34 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src='https://www.wedesoft.de/pics/programmers.gif' width="100px" height="100px" />
+  <h3>Hello everyone, my name is Egor and I'm a frontend developer! Now i am looking for a new job (remote part-time).</h3>
+  <h3>I am also a 4th year student at PSU (Penza State University).</h3>
+  <h3>I have more than 6 months of commercial expirience in frontend</h3>
+</div>
+<h3>Here is my skills in Frontend: </h3>
+<div style="display: flex">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="100px" height="100px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="100px" height="100px">
+  <img src="https://nxtide.com/wp-content/uploads/2022/08/react-js-technology.jpg" width="100px" height="100px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="100px" height="100px">
+  <img src="https://dev-to-uploads.s3.amazonaws.com/i/5mukdkd0bheuflkyv2bm.jpg" width="100px" height="100px">
 
-<!--
-**EgorPlat/EgorPlat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="100px" height="100px">
+  <img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" width="100px" height="100px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100px" height="100px">
+  <img src="https://www.adambiro.com/wp-content/uploads/2020/09/websockets.png" width="100px" height="100px">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Here is my skills in Backend: </h3>
+<div>
+  <img src="https://toppng.com/uploads/preview/nodejs-logo-vector-115739710199ssrzzitws.jpg" width="100px" height="100px">
+  <img src="https://media.licdn.com/dms/image/D4D12AQEuUOQ9-Xb9Mg/article-cover_image-shrink_720_1280/0/1663127468895?e=2147483647&v=beta&t=73bC2d6t62m4aSHGgYrA7ROil7rtR41rTc0UUeJzvoI" width="100px" height="100px">
+  <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" width="100px" height="100px">
+  <img src="https://thumbs.dreamstime.com/b/sql-database-icon-logo-design-ui-ux-app-red-inscription-shadowl-square-frame-96842119.jpg" width="100px" height="100px">
+  <img src="https://www.adambiro.com/wp-content/uploads/2020/09/websockets.png" width="100px" height="100px">
+</div>
+<div align="center">
+  <h3>Here is my github statistic :)</h3>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EgorPlat&theme=algolia" width="98.5%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EgorPlat&theme=algolia" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EgorPlat&theme=algolia&utcOffset=8" width="49%" />
+</div>
