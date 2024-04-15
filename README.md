@@ -1,8 +1,26 @@
-<div id="header" align="center">
-  <img src='https://www.wedesoft.de/pics/programmers.gif' width="100px" height="100px" />
-  <h3>Hello everyone, my name is Egor and I'm a frontend developer! Now i am looking for a new job (remote part-time).</h3>
+<body>
+<div id="image" align="center">
+  <img src='https://www.wedesoft.de/pics/programmers.gif' width="150px" height="150px" />
+</div>
+<div id="header" align="left">
+  <h3>Hello everyone, my name is Egor and I'm a frontend developer! Now i am looking for a new official job (remote).</h3>
   <h3>I am also a 4th year student at PSU (Penza State University).</h3>
   <h3>I have more than 6 months of commercial expirience in frontend</h3>
+</div>
+<div id="project" align="left">
+  <h3>I also have a my own project called - Meetins. It is a social network based on interests. Here is the information about completed features of this project:</h3>
+  <ul>
+    <li>Messanger</li>
+    <li>User profile</li>
+    <li>Groups</li>
+    <li>Searching events with KudaGO Api</li>
+    <li>Users Meetings</li>
+    <li>Managing profile settings</li>
+    <li>News</li>
+    <li>Authorization based on JWT-tokens and confirmating user email</li>
+  </ul>
+  <h3>There is much more interesting features in my project and if u are interested in it u can check it out.</h3>
+  <h3>Here is the deployment link - https://meetins-seven.vercel.app/</h3>
 </div>
 <h3>Here is my skills in Frontend: </h3>
 <div style="display: flex">
@@ -32,3 +50,5 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EgorPlat&theme=algolia" width="49%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EgorPlat&theme=algolia&utcOffset=8" width="49%" />
 </div>
+
+</body>
