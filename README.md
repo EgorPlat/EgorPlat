@@ -3,9 +3,9 @@
   <img src='https://www.wedesoft.de/pics/programmers.gif' width="150px" height="150px" />
 </div>
 <div id="header" align="left">
-  <h3>Hello everyone, my name is Egor and I'm a frontend developer! Now i am looking for a new official job (remote).</h3>
-  <h3>I am also a 4th year student at PSU (Penza State University).</h3>
-  <h3>I have more than 6 months of commercial expirience in frontend</h3>
+  <h3 align="center">
+    Hello everyone, my name is Egor and I'm a frontend developer! Now i am looking for a new official job (remote).I graduated from Penza State University with a degree in information systems and technologies and     i have more than 6 months of commercial expirience in frontend and 3 years in total.
+  </h3>
 </div>
 <div id="project" align="left">
   <h3>I also have a my own project called - Meetins. It is a social network based on interests. Here is the information about completed features of this project:</h3>
