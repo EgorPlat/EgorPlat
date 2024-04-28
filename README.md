@@ -3,8 +3,11 @@
   <img src='https://www.wedesoft.de/pics/programmers.gif' width="150px" height="150px" />
 </div>
 <div id="header" align="left">
-  <h3 align="center">
+  <h3 align="justify">
     Hello everyone, my name is Egor and I'm a frontend developer! Now i am looking for a new official job (remote).I graduated from Penza State University with a degree in information systems and technologies and     i have more than 6 months of commercial expirience in frontend and 3 years in total.
+  </h3>
+  <h3 align="justify">
+    You can write me a message using telegram - <a href="https://t.me/mdb_450" target="__blank">Write me in telegram</a>
   </h3>
 </div>
 <div id="project" align="left">
