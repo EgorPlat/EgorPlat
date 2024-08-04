@@ -13,11 +13,14 @@
 <div id="project" align="left">
   <h3>I also have a my own project called - Meetins. It is a social network based on interests. Here is the information about completed features of this project:</h3>
   <ul>
-    <li>Messanger</li>
+    <li>Messanger (media-files, smiles, text, video, audio, video-calls)</li>
     <li>User profile</li>
     <li>Groups</li>
     <li>Searching events with KudaGO Api</li>
+    <li>Searching other peoples</li>
     <li>Users Meetings</li>
+    <li>Marks (event, users and etc.)</li>
+    <li>Customize user interface (white and dark themes, english or russian languages)</li>
     <li>Managing profile settings</li>
     <li>News</li>
     <li>Authorization based on JWT-tokens and confirmating user email</li>
