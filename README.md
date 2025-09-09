@@ -1,7 +1,6 @@
 <body>
 <div id="image" align="center">
   <h2>This is my own github account. All projects is mine. You will not see here the commercial projects because they are hidden.</h2>
-  <img src='https://www.wedesoft.de/pics/programmers.gif' width="150px" height="150px" />
 </div>
 <div id="header" align="left">
   <h3 align="justify">
