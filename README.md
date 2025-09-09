@@ -26,20 +26,19 @@
     <li>Authorization based on JWT-tokens and confirmating user email</li>
   </ul>
   <h3>There is much more interesting features in my project and if u are interested in it u can check it out.</h3>
-  <h3>Here is the deployment link - https://meetins-seven.vercel.app/</h3>
 </div>
 <h3>Here is my skills in Frontend: </h3>
 <div style="display: flex">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="100px" height="100px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="100px" height="100px">
-  <img src="https://nxtide.com/wp-content/uploads/2022/08/react-js-technology.jpg" width="100px" height="100px">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8wh_vrysQFY_0CkcD-e-lYPPHLvsTaXqIGA&s" width="100px" height="100px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="100px" height="100px">
   <img src="https://dev-to-uploads.s3.amazonaws.com/i/5mukdkd0bheuflkyv2bm.jpg" width="100px" height="100px">
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="100px" height="100px">
   <img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" width="100px" height="100px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100px" height="100px">
-  <img src="https://www.adambiro.com/wp-content/uploads/2020/09/websockets.png" width="100px" height="100px">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2bZwN1XkYcdxXoOSx1TxvsxB1-xMfDPLVFQ&s" width="100px" height="100px">
 </div>
 
 <h3>Here is my skills in Backend: </h3>
@@ -48,7 +47,7 @@
   <img src="https://media.licdn.com/dms/image/D4D12AQEuUOQ9-Xb9Mg/article-cover_image-shrink_720_1280/0/1663127468895?e=2147483647&v=beta&t=73bC2d6t62m4aSHGgYrA7ROil7rtR41rTc0UUeJzvoI" width="100px" height="100px">
   <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" width="100px" height="100px">
   <img src="https://thumbs.dreamstime.com/b/sql-database-icon-logo-design-ui-ux-app-red-inscription-shadowl-square-frame-96842119.jpg" width="100px" height="100px">
-  <img src="https://www.adambiro.com/wp-content/uploads/2020/09/websockets.png" width="100px" height="100px">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2bZwN1XkYcdxXoOSx1TxvsxB1-xMfDPLVFQ&s" width="100px" height="100px">
 </div>
 <div align="center">
   <h3>Here is my github statistic :)</h3>
